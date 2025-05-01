@@ -1,6 +1,4 @@
-Here's a clean and professional README for your **Invoice Extractor** app, based on the provided Streamlit + Gemini Vision code:
 
----
 
 # 🧾 Invoice Extractor – Gemini Vision AI App
 
@@ -71,6 +69,3 @@ Here's a clean and professional README for your **Invoice Extractor** app, based
 3. Gemini interprets the image and responds based on visual + textual data.  
 4. The response is displayed in the Streamlit UI.
 
----
-
-Let me know if you'd like a visual example or to extend this into a full invoice parser with table extraction.
